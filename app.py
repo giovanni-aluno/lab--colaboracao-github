@@ -1,1 +1,1 @@
-print(Hello worlders)
+def soma(a, b): return a + b
